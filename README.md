@@ -39,3 +39,9 @@ Automated test cases related to Google search functionality
 	> `nosetests -s -v --nologcapture --with-html --html-report=test_report.html testcases\google_search_tests.py`
 3. Please run below command to execute all test cases:
 	> `nosetests -s -v --nologcapture --with-html --html-report=test_report.html testcases`
+
+## Execution
+![Execution](https://github.com/prernapal13/relayr_assignment/blob/master/screenshots/execution.gif)
+
+## Report Snapshot
+![Report Snapshot](https://github.com/prernapal13/relayr_assignment/blob/master/screenshots/execution_report_snapshot.PNG)
