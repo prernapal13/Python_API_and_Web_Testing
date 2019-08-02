@@ -1,11 +1,8 @@
-# Relayr Assignment
+# Python_API_and_Web_Testing
 
 ## Description
 This framework supports automation testing of APIs and UI both. For testing API endpoints, python's requests, json & jsonpath modules is being used. And for testing UI, selenium webdriver is being used along with python unittest framework. 
 Page Object Model(POM) is used to make the code more readable, maintainable, and reusable. Test reports are being generated using nose-html-reporting module. In case of any UI test case failure, framework supports taking snapshot of screen on which failure occured.
-
-- Answers for task 1 are available at [Solution_Task1.pdf](https://github.com/prernapal13/relayr_assignment/blob/master/Solution_Task1.pdf)
-- Manual test cases(task 2 and task 2 alternative) are available in [TestCases_Task2.xlsx](https://github.com/prernapal13/relayr_assignment/blob/master/TestCases_Task2.xlsx)
 
 ## Pre-Requisites:
 1. Python (version 2.7)
